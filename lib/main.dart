@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_cat_vs_dog_detector/screens/HomeScreen.dart';
+import 'package:flutter_cat_dog_finder/screens/HomeScreen.dart';
 
 void main() {
   runApp(const MyApp());
